@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img src="media/speechmatics_logo.png" alt="Speechmatics" width="600">
-</h1>
-
 ![Cover](media/cover.png)
 
 # Training and finetuning of Sesame AI's Conversational Speech Model.
